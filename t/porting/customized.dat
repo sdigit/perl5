@@ -21,4 +21,4 @@ podlators cpan/podlators/lib/Pod/Text.pm c454bab685ca35bccdcd8e87bc4a0922f6fc77f
 podlators cpan/podlators/lib/Pod/Text/Color.pm 318662cdfdd07a95be82c3080106ed1d410e18e0
 podlators cpan/podlators/lib/Pod/Text/Overstrike.pm ac9e6c6483aa785a4cd9b0ded64130a52e5178c9
 podlators cpan/podlators/lib/Pod/Text/Termcap.pm dc5c03b6310febae555202480bdcf8877c16efa8
-version cpan/version/lib/version.pm 8080cfe1fb21d5248c8ff5133b298d249d11e8e8
+version cpan/version/lib/version.pm 811b6efe5c5e02ad8dba4a6a8219811dc00f748e
