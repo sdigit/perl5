@@ -1188,7 +1188,7 @@ compartment:
     use Storable qw(freeze thaw);
     use Safe;
     use strict;
-    my $safe = new Safe;
+    my $safe = Safe->new;
             # because of opcodes used in "use strict":
     $safe->permit(qw(:default require));
     local $Storable::Deparse = 1;
