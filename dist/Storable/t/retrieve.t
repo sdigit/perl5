@@ -8,7 +8,7 @@
 #
 
 sub BEGIN {
-    unshift @INC, 't';
+    unshift @INC, 't/lib';
     require 'st-dump.pl';
 }
 

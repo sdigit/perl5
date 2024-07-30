@@ -17,7 +17,7 @@ use strict;
 use Config;
 
 BEGIN {
-    unshift @INC, 't';
+    unshift @INC, 't/lib';
 }
 
 our $byteorder = $Config{byteorder};
